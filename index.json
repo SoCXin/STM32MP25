@@ -1,0 +1,24 @@
+{
+    "name":"STM32MP25",
+    "type":"MPU",
+    "Freq":"800MHz",
+    "vendor":"ST",
+    "Core":"Cortex-M33",
+    "description":"ST Cortex-M33 + Cortex-A35 MPU",
+    "homepage":"http://www.SoC.xin/STM32MP25",
+    "keywords": [
+        "dev-platform",
+        "ARM",
+        "Cortex-A35",
+        "ST",
+        "Cortex-M33",
+        "32-bit"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SoCXin/STM32MP25.git"
+    },
+    "version":"1.0.0",
+    "series":["STM32MP251","STM32MP253","STM32MP257"],
+    "package":["LFBGA448","LFBGA354","TFBGA361","TFBGA257"]
+}
