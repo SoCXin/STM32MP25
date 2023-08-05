@@ -1,9 +1,9 @@
 {
     "name":"STM32MP25",
     "type":"MPU",
-    "Freq":"800MHz",
+    "Freq":"1.5GHz",
     "vendor":"ST",
-    "Core":"Cortex-M33",
+    "Core":"Cortex-M35",
     "description":"ST Cortex-M33 + Cortex-A35 MPU",
     "homepage":"http://www.SoC.xin/STM32MP25",
     "keywords": [
@@ -12,7 +12,7 @@
         "Cortex-A35",
         "ST",
         "Cortex-M33",
-        "32-bit"
+        "64-bit"
     ],
     "repository": {
         "type": "git",

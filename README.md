@@ -1,7 +1,7 @@
 ﻿# [STM32MP25](https://github.com/SoCXin/STM32MP25)
 
 * [ST](https://www.st.com/content/st_com/zh.html)：[Cortex-A35 + Cortex-M33](https://github.com/SoCXin/Cortex)
-* [L7R7](https://github.com/SoCXin/Level)：650/800MHz + 209MHz (6000 DMIPS) + NPU 1.35 TOPS
+* [L7R7](https://github.com/SoCXin/Level)：2x1.5GHz + 400MHz (6000 DMIPS) , 1.35 TOPS NPU
 
 ## [简介](https://github.com/SoCXin/STM32MP25/wiki)
 
@@ -10,8 +10,9 @@
 
 ### 关键特性
 
-* Cortex-A35 + Cortex-M33 + NPU
-* PCIe Gen2、USB 3.0、3个CAN-FD接口
+* 2xCortex-A35 + Cortex-M33 + NPU
+* DDR4(1.2GHz)
+* PCIe Gen2、USB 3.0、3x CAN-FD
 
 ## [资源收录](https://github.com/SoCXin/STM32MP25)
 
